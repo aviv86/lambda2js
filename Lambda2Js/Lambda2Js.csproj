@@ -4,7 +4,7 @@
     <!--TODO: support to portable40-net40+sl5+win8+wp8+wpa81-->
     <TargetFrameworks>netstandard1.0;net40</TargetFrameworks>
     <Title>lambda2js (ExpressionTree to JavaScript)</Title>
-    <Version>3.0.2</Version>
+    <Version>3.0.3-ravendb</Version>
     <Authors>Gearz, Miguel Angelo (masbicudo), André Pena (andrerpena)</Authors>
     <Description>Package Portable lambda expression to JavaScript converter.
 Converts System.Linq.ExpressionTree to syntactically correct JavaScript code.

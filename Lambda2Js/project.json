@@ -1,6 +1,6 @@
 ﻿{
   "name": "Lambda2Js",
-  "version": "3.0.0",
+  "version": "3.0.3-ravendb",
   "description": "Portable lambda expression to JavaScript converter.\nConverts System.Linq.ExpressionTree to syntactically correct JavaScript code.\nSee the project page for more.",
   "copyright": "Copyright Gearz 2016 - 2017",
   "title": "lambda2js (ExpressionTree to JavaScript)",
